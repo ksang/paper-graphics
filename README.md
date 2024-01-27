@@ -19,6 +19,7 @@ Collected papers for computer vision and computer graphics, categorized by appli
 
 - Rombach, Robin, et al. "High-resolution image synthesis with latent diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022. [[arxiv](https://arxiv.org/abs/2112.10752)] [[pdf](https://arxiv.org/pdf/2112.10752.pdf)]
 - Song, Yang, et al. "Score-based generative modeling through stochastic differential equations." arXiv preprint arXiv:2011.13456 (2020). [[arxiv](https://arxiv.org/abs/2011.13456)] [[pdf](https://arxiv.org/pdf/2011.13456.pdf)]
+- Xinlei Chen, , Zhuang Liu, Saining Xie, Kaiming He. "Deconstructing Denoising Diffusion Models for Self-Supervised Learning." (2024). [[arxiv](https://arxiv.org/abs/2401.14404)] [[pdf](https://arxiv.org/pdf/2401.14404.pdf)]
 
 ## 3D Generation
 
